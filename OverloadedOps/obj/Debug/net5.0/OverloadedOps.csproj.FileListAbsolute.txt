@@ -1,0 +1,16 @@
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\bin\Debug\net5.0\OverloadedOps.exe
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\bin\Debug\net5.0\OverloadedOps.deps.json
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\bin\Debug\net5.0\OverloadedOps.runtimeconfig.json
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\bin\Debug\net5.0\OverloadedOps.runtimeconfig.dev.json
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\bin\Debug\net5.0\OverloadedOps.dll
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\bin\Debug\net5.0\ref\OverloadedOps.dll
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\bin\Debug\net5.0\OverloadedOps.pdb
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\obj\Debug\net5.0\OverloadedOps.csproj.AssemblyReference.cache
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\obj\Debug\net5.0\OverloadedOps.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\obj\Debug\net5.0\OverloadedOps.AssemblyInfoInputs.cache
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\obj\Debug\net5.0\OverloadedOps.AssemblyInfo.cs
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\obj\Debug\net5.0\OverloadedOps.csproj.CoreCompileInputs.cache
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\obj\Debug\net5.0\OverloadedOps.dll
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\obj\Debug\net5.0\ref\OverloadedOps.dll
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\obj\Debug\net5.0\OverloadedOps.pdb
+E:\IT\C# Lesson\С# 9 and .NET 5\Advanced C#\OverloadedOps\OverloadedOps\obj\Debug\net5.0\OverloadedOps.genruntimeconfig.cache
